@@ -1,3 +1,4 @@
 Primer repo del curso.
 Trabajo usando Git por SSH.
 Este archivo se usara para practicar cambios y commits con git.
+Despues de git pull, el repositorio loal quedo sincronizado con el remoto.
